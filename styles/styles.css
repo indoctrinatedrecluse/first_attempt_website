@@ -1,0 +1,35 @@
+head {
+}
+
+body {  background-image: url("../images/background1.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+p { color:yellow;
+}
+
+a:link {
+    color: yellow; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: cyan;
+    background-color: transparent;
+    text-decoration: underline;
+}
